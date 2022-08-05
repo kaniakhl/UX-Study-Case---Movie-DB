@@ -1,1 +1,1 @@
-# UX-Study-Case---Movie-DB
+# UX-Study-Case-Movie-DB
